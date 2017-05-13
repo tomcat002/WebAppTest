@@ -4,3 +4,6 @@
 
 *.suo
 /packages
+/WebAppTest/bin
+/WebAppTest/obj/Debug
+/.vs/config/applicationhost.config
