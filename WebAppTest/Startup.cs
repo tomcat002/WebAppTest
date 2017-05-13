@@ -6,6 +6,7 @@ namespace WebAppTest
 {
     public partial class Startup
     {
+        //one more comment
         //Eric Test
         public void Configuration(IAppBuilder app)
         {
