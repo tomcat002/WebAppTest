@@ -6,6 +6,7 @@ namespace WebAppTest
 {
     public partial class Startup
     {
+        //4th comment
         //another more comment
         //one more comment
         //Eric Test
